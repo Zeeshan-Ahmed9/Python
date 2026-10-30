@@ -21,3 +21,8 @@ a1=True
 a2=False
 a1&a2
 
+val = input("Enter The number here: ")
+value_float = float(val)
+
+if value_float > 100:
+    print("Value is greater than 100")
