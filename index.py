@@ -16,3 +16,8 @@ a=12
 b=12
 c=-12
 print(a-b+c)
+
+a1=True
+a2=False
+a1&a2
+
