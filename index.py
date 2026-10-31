@@ -26,3 +26,9 @@ value_float = float(val)
 
 if value_float > 100:
     print("Value is greater than 100")
+
+    lst=[1,2,3,4,5,6,7]
+    sum1=0
+    for i in lst:
+        sum1=sum1+i
+        print(sum1)
