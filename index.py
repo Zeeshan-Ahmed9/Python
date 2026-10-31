@@ -1,3 +1,6 @@
+import math
+
+
 a = ('A Man Drive a car')
 print(a)
 
@@ -32,3 +35,7 @@ if value_float > 100:
     for i in lst:
         sum1=sum1+i
         print(sum1)
+
+
+
+math.ceil(12.3)
