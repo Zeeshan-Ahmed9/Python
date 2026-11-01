@@ -39,3 +39,8 @@ if value_float > 100:
 
 
 math.ceil(12.3)
+math.floor(12.4)
+
+math.modf(21.1)
+
+type({})
